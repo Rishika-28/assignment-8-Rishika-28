@@ -14,6 +14,7 @@ The Stacking Regressor combines multiple base learners through a meta-learner, l
 ## Folder Structure
 ```bash
 ├── assignment8.ipynb # Main Jupyter Notebook (all code, plots, analysis, narrative)
+├── Bike-Sharing-Dataset # Dataset
 └── README.md         # Project description and instructions
 ```
 
